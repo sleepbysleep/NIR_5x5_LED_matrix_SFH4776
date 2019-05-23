@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LED_SMD_Extra)(type KiCad)(uri /home/daysleep/new_user_kicad_library/modules/LED_SMD_Extra.pretty)(options "")(descr ""))
+  (lib (name OSRAM)(type KiCad)(uri /Users/daysleep/Workspace/VIS_NIR_LED_spotlight/4x4_LED_matrix/OSRAM.pretty)(options "")(descr ""))
+  (lib (name connector_ext)(type KiCad)(uri /home/daysleep/new_user_kicad_library/modules/connector_ext.pretty)(options "")(descr ""))
+)
